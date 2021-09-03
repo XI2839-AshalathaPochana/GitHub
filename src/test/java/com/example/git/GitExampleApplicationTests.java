@@ -9,5 +9,6 @@ class GitExampleApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
+@Autowired
+	Edited
 }
